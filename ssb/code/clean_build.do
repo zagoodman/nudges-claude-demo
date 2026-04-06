@@ -1,5 +1,3 @@
-version 18
-
 /*******************************************************************************
 TITLE: clean_build.do
 AUTHOR(S): Daniel Cohen <-- Victoria Pu 

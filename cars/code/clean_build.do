@@ -1,5 +1,3 @@
-version 18
-
 local processors = c(processors)
 if `processors' > 1 {
 	set processors 1

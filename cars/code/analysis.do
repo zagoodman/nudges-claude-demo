@@ -1,5 +1,3 @@
-version 18
-
 /*******************************************************************************
 TITLE: analysis.do
 AUTHOR(S): Daniel Cohen <-- Victoria Pu 
