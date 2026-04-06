@@ -10,7 +10,7 @@ DESCRIPTION: Reads in PII-free raw data and produces cleaned/processed dataset
 	         for the cars experiment. 
 DATE LAST MODIFIED: APR 2024
 FILE(S) USED: 
-    - [cars/input/] surveys_combined.dta 
+  - [cars/input/] surveys_combined.dta 
 	- [cars/input/] client_demos.dta
 *******************************************************************************/
 
