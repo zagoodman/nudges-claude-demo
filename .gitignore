@@ -1,6 +1,12 @@
 # User-specific Stata config
 setup/SetGlobals.do
 
+# intermediate data
+**/intermediate_data
+
+# output
+**/output
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
