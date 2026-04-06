@@ -1,0 +1,30 @@
+{
+    "_comment": "Scalar values for ACS 2020, ORNL, and EIA external data. See README for more information.",
+    "ACS": {
+        "_comment": "Codes in order of use are: DP03_0051E, DP03_0052E, DP03_0053E, DP03_0054E, DP03_0055E, DP03_0056E, DP03_0057E, DP02_0068PE, DP05_0002PE, DP05_0064PE, DP05_0001E, DP05_0005E, DP05_0006E, DP05_0007E, DP05_0008E, DP05_0009E, DP05_0010E, DP05_0011E",
+        "total_hh": 122354219,
+        "0to10k": 7145751,
+        "10kto15k": 5020097,
+        "15kto25k": 10359700,
+        "25kto35k": 10569484,
+        "35kto50k": 14690382,
+        "50kto75k": 21034779,
+        "college25over": 0.33,
+        "male": 0.49,
+        "white": 0.75,
+        "total": 326569308,
+        "u5": 19650192,
+        "5to9": 19979039,
+        "10to14": 21107910,
+        "15to19": 21174955,
+        "20to24": 21820378,
+        "25to34": 45485165,
+        "35to44": 41346677
+    },
+    "ORNL": {
+        "milesdriven": 11131
+    },
+    "EIA": {
+        "gasprice": 2.60
+    }
+}

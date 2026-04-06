@@ -1,0 +1,24 @@
+* Scalar values for ACS 2020, ORNL, and EIA external data. See README for more information.
+
+* ACS codes in order of use are: DP03_0051E, DP03_0052E, DP03_0053E, DP03_0054E, DP03_0055E, 
+* DP03_0056E, DP03_0057E, DP02_0068PE, DP05_0002PE, DP05_0064PE, DP05_0001E, DP05_0005E, 
+* DP05_0006E, DP05_0007E, DP05_0008E, DP05_0009E, DP05_0010E, DP05_0011E
+
+local total_hh = 122354219
+local 0to10k = 7145751
+local 10kto15k = 5020097
+local 15kto25k = 10359700
+local 25kto35k = 10569484
+local 35kto50k = 14690382
+local 50kto75k = 21034779
+local college25over = 0.33
+local male = 0.49
+local white = 0.75
+local total = 326569308
+local u5 = 19650192
+local 5to9 = 19979039
+local 10to14 = 21107910
+local 15to19 = 21174955
+local 20to24 = 21820378
+local 25to34 = 45485165
+local 35to44 = 41346677
