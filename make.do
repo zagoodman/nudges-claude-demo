@@ -13,7 +13,7 @@ FILE(S) USED: N/A
 (1) set the global directory for each user
 *******************************************************************************/
 
-include "SetGlobals.do"
+include "setup/SetGlobals.do"
 
 
 /*******************************************************************************

@@ -48,17 +48,8 @@ end
 
 
 /*******************************************************************************
-Import locally-stored, deprecated version of iebaltab command
+Use current version of iebaltab from ietoolkit
 *******************************************************************************/
-
-cap program drop import_deprecated_iebaltab
-program define import_deprecated_iebaltab
-
-	quietly do "$rootdir/lib/ado/i/iebaltab_v64.ado"
-
-end
-
-import_deprecated_iebaltab
 
 
 /*******************************************************************************

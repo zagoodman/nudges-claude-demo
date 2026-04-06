@@ -1,6 +1,9 @@
 # User-specific Stata config
 setup/SetGlobals.do
 
+# Stata swap files
+*.stswp
+
 # intermediate data
 **/intermediate_data
 
