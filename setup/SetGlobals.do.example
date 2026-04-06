@@ -1,2 +1,3 @@
 /* Copy this file to SetGlobals.do and set rootdir to your local path */
+version 18
 global rootdir "/path/to/nudges-claude-demo"
